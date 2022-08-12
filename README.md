@@ -9,8 +9,9 @@ Projects created:
 2. APR 2021 - Networking Programs (IP Addressing Computation - subnetting/CIDR/VLSM) - C Program
 3. AUG 2021 (Collab) - ANYQUIZ (Free-for-all quiz maker web application/reviewer management system) - https://anyquiz.me/
 4. JAN 2022 (Collab) - Survey Management System - Web Application using Vue and React 
-5. MAY 2022 (Collab) - AutoBar (POS + Reward system prototype for bar establishments) - Mobile Application using Xamarin.Forms
-6. JUN 2022 - Chat application (direct messages and group chats) - Web Application using ASP.NET MVC and SignalR
+5. MAR 2022 (Collab) - Payroll System and Employee Tracking - C Program
+6. MAY 2022 (Collab) - AutoBar (POS + Reward system prototype for bar establishments) - Mobile Application using Xamarin.Forms
+7. JUN 2022 - Chat application (direct messages and group chats) - Web Application using ASP.NET MVC and SignalR
 
 Languages:
 C, C++, Java, C#
