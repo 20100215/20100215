@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wayne Matthew Dayata, third year BS Computer Science in University of San Carlos.
-- 👀 I’m interested in playing retro games, casual coding, and teaching
+- 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
 - 🌱 I’m currently learning: Database management, frameworks for web development, 
 - 💞️ I’m looking to collaborate on: Web application development
 - 📫 How to reach me: Via email (20100215@usc.edu.ph), FB Messenger (https://m.me/wdayata)
