@@ -29,7 +29,8 @@ Bootstrap 5.0, VueJS, ASP.NET
 (To learn: NextJS, NestJS, ReactJS)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20100215&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20100215&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20100215&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
 
 <!---
 20100215/20100215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
