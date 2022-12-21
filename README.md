@@ -33,6 +33,8 @@ Bootstrap 5.0, VueJS, Laravel, ASP.NET
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=20100215&theme=dark)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20100215&layout=compact&theme=dark)
+
 
 <!---
 20100215/20100215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
