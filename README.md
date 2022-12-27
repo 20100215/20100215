@@ -32,14 +32,15 @@
 
 ### Languages:
 
-C, C++, Java, C#
-HTML, CSS, JavaScript, JQuery
-PHP, MySQL
-R
+- C, C++, Java, C#, R
+
+### Web Technologies:
+
+- HTML, CSS, JavaScript, JQuery, PHP, MySQL
 
 ### Frameworks:
 
-Bootstrap 5.0, VueJS, Laravel, ASP.NET, Node.JS
+- Bootstrap 5.0, VueJS, Laravel, ASP.NET, Node.JS
 
 ### Github Statistics:
 
