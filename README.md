@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
     Hi! 👋 I'm Wayne Dayata
-</h2>
+</h1>
 <h4 align="center">
     Passionate programmer and software developer  
 </h4>
