@@ -15,7 +15,7 @@ Projects created:
 8. MAY 2022 (Collab) - AutoBar (POS + Reward system prototype for bar establishments) - Mobile Application using Xamarin.Forms and C#
 9. MAY 2022 (Collab) - ChatApp (Direct messages) - Mobile Application using Xamarin.Forms and C#
 10. JUN 2022 - DURC Chat application (direct messages and group chats) - Web Application using ASP.NET MVC and SignalR
-11. SEP 2022 (Collab) - HomeHero (Household maintenance job platform) - Web Application applying database approach
+11. SEP 2022 (Collab) - HomeHero (Household maintenance job platform) - Web Application using PHP and MySQL
 12. DEC 2022 - Cryptography Algorithm Simulation - C Programs with File Handling
 (Repositories for all projects to be updated)
 
