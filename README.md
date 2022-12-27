@@ -6,6 +6,7 @@
 </h4>
 <hr>
 
+About me: 
 - 🌱 I'm currently studying BS Computer Science in University of San Carlos.
 - 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
 - 🌱 I’m currently learning: Data science and project management 
