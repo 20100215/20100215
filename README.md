@@ -26,8 +26,7 @@ PHP, MySQL
 R
 
 Frameworks:
-Bootstrap 5.0, VueJS, Laravel, ASP.NET
-(To learn: NextJS, NestJS, ReactJS)
+Bootstrap 5.0, VueJS, Laravel, ASP.NET, Node.JS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20100215&count_private=true&theme=dark)
 
