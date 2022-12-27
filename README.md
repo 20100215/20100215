@@ -6,7 +6,8 @@
 </h4>
 <hr>
 
-###About me: 
+###About me:
+
 - 🌱 I'm currently studying BS Computer Science in University of San Carlos.
 - 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
 - 🌱 I’m currently learning: Data science and project management 
@@ -14,6 +15,7 @@
 - 📫 How to reach me: Via email (20100215@usc.edu.ph), FB Messenger (https://m.me/wdayata)
 
 ###Projects created:
+
 1. DEC 2020 - EZLOGIC (Discrete Mathematics lessons) - Frontend web application using HTML, CSS, JS - https://wdayata.github.io/EZLOGIC/
 2. APR 2021 - Networking Programs (IP Addressing Computation - subnetting/CIDR/VLSM) - C Program
 3. AUG 2021 (Collab) - ANYQUIZ (Free-for-all quiz maker web application/reviewer management system) - https://anyquiz.me/
@@ -29,12 +31,14 @@
 (Repositories for all projects to be updated)
 
 ###Languages:
+
 C, C++, Java, C#
 HTML, CSS, JavaScript, JQuery
 PHP, MySQL
 R
 
 ###Frameworks:
+
 Bootstrap 5.0, VueJS, Laravel, ASP.NET, Node.JS
 
 ###Github Statistics:
