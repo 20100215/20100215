@@ -10,8 +10,7 @@
 
 - 🌱 I'm currently studying BS Computer Science in University of San Carlos.
 - 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
-- 🌱 I’m currently learning: Data science and project management 
-- 💞️ I’m looking to collaborate on: Web application development
+- 💞️ I’m currently learning: Data Analytics, Data Science, and Project Management 
 - 📫 How to reach me: Via email (20100215@usc.edu.ph), FB Messenger (https://m.me/wdayata)
 
 ### Projects created:
