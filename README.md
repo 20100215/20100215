@@ -6,7 +6,7 @@
 </h4>
 <hr>
 
-###About me:
+### About me:
 
 - 🌱 I'm currently studying BS Computer Science in University of San Carlos.
 - 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
@@ -14,7 +14,7 @@
 - 💞️ I’m looking to collaborate on: Web application development
 - 📫 How to reach me: Via email (20100215@usc.edu.ph), FB Messenger (https://m.me/wdayata)
 
-###Projects created:
+### Projects created:
 
 1. DEC 2020 - EZLOGIC (Discrete Mathematics lessons) - Frontend web application using HTML, CSS, JS - https://wdayata.github.io/EZLOGIC/
 2. APR 2021 - Networking Programs (IP Addressing Computation - subnetting/CIDR/VLSM) - C Program
@@ -30,18 +30,18 @@
 12. DEC 2022 - Cryptography Algorithm Simulation - C Programs with File Handling
 (Repositories for all projects to be updated)
 
-###Languages:
+### Languages:
 
 C, C++, Java, C#
 HTML, CSS, JavaScript, JQuery
 PHP, MySQL
 R
 
-###Frameworks:
+### Frameworks:
 
 Bootstrap 5.0, VueJS, Laravel, ASP.NET, Node.JS
 
-###Github Statistics:
+### Github Statistics:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=20100215&count_private=true&theme=dark)
 
