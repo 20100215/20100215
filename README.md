@@ -1,9 +1,10 @@
 <h2 align="center">
-    Hi! I'm Wayne Dayata
+    Hi! 👋 I'm Wayne Dayata
 </h2>
-<h4>
+<h4 align="center">
     Passionate programmer and software developer  
 </h4>
+<hr>
 
 - 🌱 I'm currently studying BS Computer Science in University of San Carlos.
 - 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
