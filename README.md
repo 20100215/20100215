@@ -1,6 +1,7 @@
 <h1 align="center">
     Hi! 👋 I'm Wayne Dayata
 </h1>
+
 <h4 align="center">
 
 Passionate programmer, web developer, and data scientist
