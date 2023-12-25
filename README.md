@@ -140,28 +140,28 @@
     <td class="tg-baqh">HTML, CSS, Bootstrap 5, JS, AppsScript</td>
   </tr>
   <tr>
-    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">16</td>
     <td class="tg-baqh">Apr 2023</td>
     <td class="tg-baqh">Automata Theory</td>
     <td class="tg-baqh">Compilation of hands on exercises (GUI applications) for finite-state automata applications</td>
     <td class="tg-baqh">C#, Windows Forms .NET</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">16</td>
+    <td class="tg-c3ow">17</td>
     <td class="tg-c3ow">Nov 2023</td>
     <td class="tg-c3ow">ALL Classifier UI</td>
     <td class="tg-c3ow">Using a stacking ensemble of convolutional neural networks to detect cancerous white blood cells resembling Acute Lymphoblastic Leukemia</td>
     <td class="tg-c3ow">Python, Tensorflow, Keras, Tkinter UI</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">18</td>
     <td class="tg-c3ow">Dec 2023</td>
     <td class="tg-c3ow">Intelligent Systems</td>
     <td class="tg-c3ow">Compilation of machine learning and deep learning exercises in the Intelligent Systems / AI class</td>
     <td class="tg-c3ow">Python, Tensorflow, Keras, PyTorch</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">19</td>
     <td class="tg-c3ow">Dec 2023</td>
     <td class="tg-c3ow">Event Registration System</td>
     <td class="tg-c3ow">Event management system web application developed during internship with automated invitation, registration, time logging and attendance tracking</td>
