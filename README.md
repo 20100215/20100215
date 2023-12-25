@@ -3,8 +3,8 @@
 </h1>
 <h4 align="center">
     Passionate programmer, web developer, and data scientist<br>
-    https://20100215.github.io/<br>
-    https://fullscale.rocks/profile/e6f5420708eef
+    <a href="https://20100215.github.io/" View my portfolio</a><br>
+    <a href="https://fullscale.rocks/profile/e6f5420708eef" View my skills profile</a>
 </h4>
 <hr>
 
