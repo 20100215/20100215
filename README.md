@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi! 👋 I'm Wayne matthew Dayata
+    Hi! 👋 I'm Wayne Matthew Dayata
 </h1>
 
 <h4 align="center">
