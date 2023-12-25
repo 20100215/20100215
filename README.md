@@ -2,7 +2,8 @@
     Hi! 👋 I'm Wayne Dayata
 </h1>
 <h4 align="center">
-    Passionate programmer, web developer, and data scientist
+
+Passionate programmer, web developer, and data scientist
 
 [View my portfolio](https://20100215.github.io/)
 
