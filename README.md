@@ -35,7 +35,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <th class="tg-c3ow"><span style="font-weight:bold">Date</span></th>
     <th class="tg-c3ow"><span style="font-weight:bold">Project Name</span></th>
     <th class="tg-7btt">Features</th>
-    <th class="tg-7btt">Tech Stack</th>
+    <th class="tg-7btt">Technology Stack</th>
   </tr>
 </thead>
 <tbody>
