@@ -2,10 +2,11 @@
     Hi! 👋 I'm Wayne Dayata
 </h1>
 <h4 align="center">
-    Passionate programmer, web developer, and data scientist<br>
-    [View my portfolio](https://20100215.github.io/)<br>
-    [View my skills profile](https://fullscale.rocks/profile/e6f5420708eef)
+    Passionate programmer, web developer, and data scientist
 </h4>
+    [View my portfolio](https://20100215.github.io/)
+    [View my skills profile](https://fullscale.rocks/profile/e6f5420708eef)
+
 <hr>
 
 ### About me:
