@@ -16,7 +16,7 @@
 
 ### Projects created:
 
-<table style="undefined;table-layout: fixed; width: 761px">
+<table class="tg" style="undefined;table-layout: fixed; width: 761px">
 <colgroup>
 <col style="width: 33.2px">
 <col style="width: 93.2px">
@@ -131,6 +131,13 @@
     <td class="tg-c3ow">Sanaol Agency</td>
     <td class="tg-c3ow">Talent management system with CRUD features for events, talents, news, and services with automated notification and dynamic dashboards</td>
     <td class="tg-c3ow">Vue.JS, Laravel</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">Dec 2022</td>
+    <td class="tg-baqh">Portfolio Website</td>
+    <td class="tg-baqh">Personal showcase of resume, achievements, and projects developed</td>
+    <td class="tg-baqh">HTML, CSS, Bootstrap 5, JS, AppsScript</td>
   </tr>
   <tr>
     <td class="tg-baqh">15</td>
