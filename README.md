@@ -5,6 +5,7 @@
     Passionate programmer, web developer, and data scientist
 
 [View my portfolio](https://20100215.github.io/)
+
 [View my skills profile](https://fullscale.rocks/profile/e6f5420708eef)
 
 </h4>
