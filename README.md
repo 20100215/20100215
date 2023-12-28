@@ -43,126 +43,126 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow">Dec 2020</td>
-    <td class="tg-c3ow">EZLOGIC</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/EZLOGIC">EZLOGIC</a></td>
     <td class="tg-c3ow">Interactive tutorial website for discrete mathematics lessons</td>
     <td class="tg-c3ow">HTML, CSS, Bootstrap, JS</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">Apr 2021</td>
-    <td class="tg-c3ow">IP Address Calculator</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Net1-IP-Addressing">IP Address Calculator</a></td>
     <td class="tg-c3ow">Subnetting, CIDR, VLSM automations</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
     <td class="tg-c3ow">3</td>
     <td class="tg-c3ow">Aug 2021</td>
-    <td class="tg-c3ow">ANYQUIZ</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/ANYQUIZ">ANYQUIZ</a></td>
     <td class="tg-c3ow">Quiz maker and management system with various question types and moderation settings</td>
     <td class="tg-c3ow">HTML, CSS, JS, jQuery, PHP, MySQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
     <td class="tg-c3ow">Nov 2021</td>
-    <td class="tg-c3ow">Inventory System</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Java-Programs">Inventory System</a></td>
     <td class="tg-c3ow">Simple inventory management application using database and file handling techniques</td>
     <td class="tg-c3ow">Java, JSwing GUI</td>
   </tr>
   <tr>
     <td class="tg-c3ow">5<br></td>
     <td class="tg-c3ow">Dec 2021</td>
-    <td class="tg-c3ow">Basketball scoreboard</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Java-Programs">Basketball scoreboard</a></td>
     <td class="tg-c3ow">Scoreboard and timer simulation incorporating Java's multithreading</td>
     <td class="tg-c3ow">Java, JSwing GUI</td>
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
     <td class="tg-c3ow">Jan 2022</td>
-    <td class="tg-c3ow">Survey Co.</td>
+    <td class="tg-c3ow"><a href="https://github.com/vn-aj-vngrd/survey">Survey Co.</a></td>
     <td class="tg-c3ow">Survey maker and management system</td>
     <td class="tg-c3ow">Vue.JS, Laravel</td>
   </tr>
   <tr>
     <td class="tg-c3ow">7</td>
     <td class="tg-c3ow">Mar 2022</td>
-    <td class="tg-c3ow">Payroll System</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/CIS2206PayrollSystem">Payroll System</a></td>
     <td class="tg-c3ow">Employee attendance and payroll system integrating file handling and data structures</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
     <td class="tg-c3ow">8</td>
     <td class="tg-c3ow">May 2022</td>
-    <td class="tg-c3ow">AutoBar</td>
-    <td class="tg-c3ow">POS + Loyalty Reward system prototype for bar estabblishments</td>
+    <td class="tg-c3ow"><a href="https://github.com/OG-Habit/AutoBar">AutoBar</a></td>
+    <td class="tg-c3ow">POS + Loyalty Reward system prototype for bar establishments</td>
     <td class="tg-c3ow">C#, Xamarin.Forms, MSSQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9</td>
     <td class="tg-c3ow">May 2022</td>
-    <td class="tg-c3ow">ChatApp</td>
+    <td class="tg-c3ow"><a href="https://github.com/OG-Habit/ChatApp">ChatApp</a></td>
     <td class="tg-c3ow">Mobile chat appplication</td>
     <td class="tg-c3ow">C#, Xamarin.Forms, Firebase</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10</td>
     <td class="tg-c3ow">Jun 2022</td>
-    <td class="tg-c3ow">DURC Chat App</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/2203-DURC">DURC Chat App</a></td>
     <td class="tg-c3ow">Web chat applications with direct messages, channels, and group chats</td>
     <td class="tg-c3ow">C#, ASP.NET MVC, SignalR</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11</td>
     <td class="tg-c3ow">Sep 2022</td>
-    <td class="tg-c3ow">HomeHero</td>
+    <td class="tg-c3ow"><a href="https://github.com/marescanog/homehero">HomeHero</a></td>
     <td class="tg-c3ow">Household maintenance job platform for homeowners and workers with detailed registration, service tracking, and reports generation</td>
     <td class="tg-c3ow">HTML, CSS, BootStrap 5, JS, PHP, Slim Framework, MySQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12</td>
     <td class="tg-c3ow">Dec 2022</td>
-    <td class="tg-c3ow">CPU Scheduling</td>
+    <td class="tg-c3ow"><a href="https://github.com/OG-Habit/3104-SJF">CPU Scheduling</a></td>
     <td class="tg-c3ow">CPU scheduling simulation and visualization (Lab exercise for Operating Systems course)</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13</td>
     <td class="tg-c3ow">Dec 2022</td>
-    <td class="tg-c3ow">Cryptography</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/IAS-Cryptography">Cryptography</a></td>
     <td class="tg-c3ow">Cryptography algorithm simulations for encrypting and decrypting text data (Lab exercises for Information Assurance and Security course)</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14</td>
     <td class="tg-c3ow">Dec 2022</td>
-    <td class="tg-c3ow">Sanaol Agency</td>
+    <td class="tg-c3ow"><a href="https://github.com/therealmai/sanaol_agency/tree/main">Sanaol Agency</a></td>
     <td class="tg-c3ow">Talent management system with CRUD features for events, talents, news, and services with automated notification and dynamic dashboards</td>
     <td class="tg-c3ow">Vue.JS, Laravel</td>
   </tr>
   <tr>
     <td class="tg-baqh">15</td>
     <td class="tg-baqh">Dec 2022</td>
-    <td class="tg-baqh">Portfolio Website</td>
+    <td class="tg-baqh"><a href=https://github.com/20100215/20100215.github.io">Portfolio Website</a></td>
     <td class="tg-baqh">Personal showcase of resume, achievements, and projects developed</td>
     <td class="tg-baqh">HTML, CSS, Bootstrap 5, JS, AppsScript</td>
   </tr>
   <tr>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">Apr 2023</td>
-    <td class="tg-baqh">Automata Theory</td>
+    <td class="tg-baqh"><a href="https://github.com/20100215/Automata-Theory-Coding-Exercises">Automata Theory</a></td>
     <td class="tg-baqh">Compilation of hands on exercises (GUI applications) for finite-state automata applications</td>
     <td class="tg-baqh">C#, Windows Forms .NET</td>
   </tr>
   <tr>
     <td class="tg-c3ow">17</td>
     <td class="tg-c3ow">Nov 2023</td>
-    <td class="tg-c3ow">ALL Classifier UI</td>
+    <td class="tg-c3ow"> <a href="https://github.com/20100215/All-Cell-Classifier">ALL Classifier UI</a></td>
     <td class="tg-c3ow">Using a stacking ensemble of convolutional neural networks to detect cancerous white blood cells resembling Acute Lymphoblastic Leukemia</td>
     <td class="tg-c3ow">Python, Tensorflow, Keras, Tkinter UI</td>
   </tr>
   <tr>
     <td class="tg-c3ow">18</td>
     <td class="tg-c3ow">Dec 2023</td>
-    <td class="tg-c3ow">Intelligent Systems</td>
+    <td class="tg-c3ow"> <a href="https://github.com/20100215/Intelligent_Systems">Intelligent Systems</a> </td>
     <td class="tg-c3ow">Compilation of machine learning and deep learning exercises in the Intelligent Systems / AI class</td>
     <td class="tg-c3ow">Python, Tensorflow, Keras, PyTorch</td>
   </tr>
