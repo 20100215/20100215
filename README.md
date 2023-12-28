@@ -148,7 +148,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-baqh">16</td>
     <td class="tg-baqh">Dec 2022</td>
-    <td class="tg-baqh"><a href=https://github.com/20100215/20100215.github.io">Portfolio Website</a></td>
+    <td class="tg-baqh"><a href="https://github.com/20100215/20100215.github.io">Portfolio Website</a></td>
     <td class="tg-baqh">Personal showcase of resume, achievements, and projects developed</td>
     <td class="tg-baqh">HTML, CSS, Bootstrap 5, JS, AppsScript</td>
   </tr>
