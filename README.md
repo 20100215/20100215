@@ -2,7 +2,7 @@
     Hi! 👋 I'm Wayne Matthew Dayata
 </h1>
 
-<h4 align="center">
+<h3 align="center">
 
 Passionate programmer, web developer, and data scientist
 
@@ -10,7 +10,7 @@ My Portfolio - https://20100215.github.io/
 
 My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
-</h4>
+</h3>
 <hr>
 
 ### About me:
