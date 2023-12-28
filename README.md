@@ -44,7 +44,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <td class="tg-c3ow">1</td>
     <td class="tg-c3ow">Feb 2018</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/visual-basic-projects-2016/tree/main/Battle">Battle!</a></td>
-    <td class="tg-c3ow">Single or two-player turn-based fighting game with rock-paper-scissors like mechanics and customizable HP and attack rates</td>
+    <td class="tg-c3ow">Single or two-player turn-based fighting game with rock-paper-scissors style mechanics and customizable HP/attack rates</td>
     <td class="tg-c3ow">Visual Basic .NET</td>
   </tr>
   <tr>
