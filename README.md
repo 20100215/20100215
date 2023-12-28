@@ -15,10 +15,10 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
 ### About me:
 
-- 🌱 I'm currently studying BS Computer Science in University of San Carlos.
-- 👀 I’m interested in playing retro games, casual coding, and teaching programming fundamentals
-- 💞️ I’m currently learning: Next.JS, ASP.NET, Data Science, Project Management 
-- 📫 How to reach me: Email (wdayata@gmail.com)
+- 🌱 I'm currently studying **BS Computer Science** in **University of San Carlos**.
+- 👀 I’m interested in **competitive programming**, **playing retro games**, and **teaching**
+- 💞️ I’m currently learning: **Next.JS, ASP.NET, Data Science, Project Management **
+- 📫 How to reach me: **Email (wdayata@gmail.com)**
 
 ### Projects created:
 
