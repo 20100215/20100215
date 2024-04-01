@@ -192,16 +192,23 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">22</td>
     <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
-    <td class="tg-c3ow">Numerical Analysis</td>
+    <td class="tg-c3ow"><a href="https://github.com/OG-Habit/mat5101">Numerical Analysis</a></td>
     <td class="tg-c3ow">Compilation of problem sets in the Numerical Analysis class</td>
     <td class="tg-c3ow">Next.JS, Next UI, C#, ASP.NET Web API, MSSQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">23</td>
     <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
-    <td class="tg-c3ow">Discord Clone App</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/discord-clone">Discord Clone App</a></td>
     <td class="tg-c3ow">A web application replicating the features of Discord - text and voice channels, server moderation and user role management.</td>
     <td class="tg-c3ow">Next.JS, React, Socket.io, Prisma, Tailwind</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">24</td>
+    <td class="tg-c3ow">Apr 2024 (Soon)</td>
+    <td class="tg-c3ow">Student Handbook Chatbot</td>
+    <td class="tg-c3ow">An application integrating a trained question-answer model that can process factual queries on USC's student handbook.</td>
+    <td class="tg-c3ow">Python, SpaCy, NLTK, InferSent, PyTorch</td>
   </tr>
 </tbody>
 </table>
