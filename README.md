@@ -19,7 +19,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
 - 🌱 I'm currently studying **BS Computer Science** in **University of San Carlos**.
 - 👀 I’m interested in **competitive programming**, **playing retro games**, and **teaching**
-- 💞️ I’m currently learning: **Next.JS, ASP.NET, Data Science, Project Management**
+- 💞️ I’m currently learning: **Data Science, Natural Language Processing, Project Management**
 - 📫 How to reach me: **Email (wdayata@gmail.com)**
 
 ### Projects created:
@@ -173,7 +173,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <td class="tg-c3ow">Dec 2023</td>
     <td class="tg-c3ow"> <a href="https://github.com/20100215/Intelligent_Systems">Intelligent Systems</a> </td>
     <td class="tg-c3ow">Compilation of machine learning and deep learning exercises in the Intelligent Systems / AI class</td>
-    <td class="tg-c3ow">Python, Tensorflow, Keras, PyTorch</td>
+    <td class="tg-c3ow">Python, Scikit-learn, Tensorflow, Keras, PyTorch, pandas</td>
   </tr>
   <tr>
     <td class="tg-c3ow">20</td>
@@ -181,6 +181,27 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <td class="tg-c3ow">Event Registration System</td>
     <td class="tg-c3ow">Event management system web application developed during internship with automated invitation, registration, time logging and attendance tracking</td>
     <td class="tg-c3ow">Next.JS, Next UI, C#, ASP.NET Web API, MSSQL</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">21</td>
+    <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Natural_Language_Processing">Natural Language Processing</a></td>
+    <td class="tg-c3ow">Compilation of language preprocessing and machine learning exercises in the Natural Language Processing class</td>
+    <td class="tg-c3ow">Python, Scikit-learn, NLTK, SpaCy, gensim, pandas</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
+    <td class="tg-c3ow">Numerical Analysis</td>
+    <td class="tg-c3ow">Compilation of problem sets in the Numerical Analysis class</td>
+    <td class="tg-c3ow">Next.JS, Next UI, C#, ASP.NET Web API, MSSQL</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">23</td>
+    <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
+    <td class="tg-c3ow">Discord Clone App</td>
+    <td class="tg-c3ow">A web application replicating the features of Discord - text and voice channels, server moderation and user role management.</td>
+    <td class="tg-c3ow">Next.JS, React, Socket.io, Prisma, Tailwind</td>
   </tr>
 </tbody>
 </table>
@@ -203,6 +224,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
@@ -243,5 +265,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="center">
-Updated December 28, 2023
+Updated April 1, 2024
 </h3>
