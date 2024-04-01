@@ -10,6 +10,8 @@ My Portfolio - https://20100215.github.io/
 
 My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
+<a href="https://20100215.github.io/portfolio/Dayata-Wayne-Curriculum-Vitae-Updated-December-2023.pdf">Download my resume here</a>
+
 </h3>
 <hr>
 
