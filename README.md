@@ -184,7 +184,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">21</td>
-    <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
+    <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Natural_Language_Processing">Natural Language Processing</a></td>
     <td class="tg-c3ow">Compilation of language preprocessing and machine learning exercises in the Natural Language Processing class</td>
     <td class="tg-c3ow">Python, Scikit-learn, NLTK, SpaCy, gensim, pandas</td>
@@ -205,10 +205,17 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">24</td>
-    <td class="tg-c3ow">Apr 2024 (Soon)</td>
+    <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow">Student Handbook Chatbot</td>
     <td class="tg-c3ow">An application integrating a trained question-answer model that can process factual queries on USC's student handbook.</td>
-    <td class="tg-c3ow">Python, SpaCy, NLTK, InferSent, PyTorch</td>
+    <td class="tg-c3ow">Python, LangChain, Streamlit, ChromaDB, Llama 3</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">May 2024</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/cubic-splines-calculator">Cubic Splines Calculator</a></td>
+    <td class="tg-c3ow">A web application to interpolate from a series of points through cubic spline polynomials.</td>
+    <td class="tg-c3ow">Next.JS, R Plumber</td>
   </tr>
 </tbody>
 </table>
@@ -272,5 +279,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="center">
-Updated April 1, 2024
+Updated May 7, 2024
 </h3>
