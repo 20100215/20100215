@@ -206,8 +206,8 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">24</td>
     <td class="tg-c3ow">May 2024</td>
-    <td class="tg-c3ow">Student Handbook Chatbot</td>
-    <td class="tg-c3ow">An application integrating a trained question-answer model that can process factual queries on USC's student handbook.</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/NLP_Student_Manual_Chatbot">Student Handbook Chatbot</a></td>
+    <td class="tg-c3ow">An application integrating a trained question-answer model with RAG that can process factual queries on USC's student handbook.</td>
     <td class="tg-c3ow">Python, LangChain, Streamlit, ChromaDB, Llama 3</td>
   </tr>
   <tr>
