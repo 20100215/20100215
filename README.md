@@ -191,7 +191,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">22</td>
-    <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
+    <td class="tg-c3ow">Mar 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/OG-Habit/mat5101">Numerical Analysis</a></td>
     <td class="tg-c3ow">Compilation of problem sets in the Numerical Analysis class</td>
     <td class="tg-c3ow">R</td>
