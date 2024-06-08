@@ -217,6 +217,13 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <td class="tg-c3ow">A web application to interpolate from a series of points through cubic spline polynomials.</td>
     <td class="tg-c3ow">Next.JS, R Plumber</td>
   </tr>
+  <tr>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">June 2024 (Ongoing)</td>
+    <td class="tg-c3ow">Data Express</td>
+    <td class="tg-c3ow">A web-based exploratory data analysis, visualization, and machine learning application with any dataset supported (CSV and Excel).</td>
+    <td class="tg-c3ow">Python, Pandas, PyGWalker, Scikit-learn, TPOT, Streamlit</td>
+  </tr>
 </tbody>
 </table>
 
