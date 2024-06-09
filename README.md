@@ -220,9 +220,9 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">26</td>
     <td class="tg-c3ow">June 2024 (Ongoing)</td>
-    <td class="tg-c3ow">Data Express</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Data_Express">Data Express</a></td>
     <td class="tg-c3ow">A web-based data analysis and profiling, interactive visual exploration, and statical experimentation/hypothesis testing application with any dataset supported (CSV and Excel).</td>
-    <td class="tg-c3ow">Python, Pandas, PyGWalker, Scikit-learn, TPOT, Streamlit</td>
+    <td class="tg-c3ow">Python, Pandas, PyGWalker, SciPy, Streamlit</td>
   </tr>
 </tbody>
 </table>
