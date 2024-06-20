@@ -219,10 +219,24 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">26</td>
-    <td class="tg-c3ow">June 2024 (Ongoing)</td>
+    <td class="tg-c3ow">June 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Data_Express">Data Express</a></td>
     <td class="tg-c3ow">A web-based data analysis and profiling, interactive visual exploration, and statical experimentation/hypothesis testing application with any dataset supported (CSV and Excel).</td>
     <td class="tg-c3ow">Python, Pandas, PyGWalker, SciPy, Streamlit</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">27</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow"><a href="https://bit.ly/DEVCONPowerBIWorkshop">Power BI Workshop</td>
+    <td class="tg-c3ow">Self-made notes used in the Introductory Power BI Workshop series conducted to aspiring data professionals.</td>
+    <td class="tg-c3ow">Power BI, DAX</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">28</td>
+    <td class="tg-c3ow">June 2024 (Ongoing)</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/8_Week_SQL_Challenge">Data Express</a></td>
+    <td class="tg-c3ow">Compilation of case study solutions with complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a></td>
+    <td class="tg-c3ow">Python, Pandas, SQLite, Matplotlib</td>
   </tr>
 </tbody>
 </table>
