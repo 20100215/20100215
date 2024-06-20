@@ -233,6 +233,13 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">28</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow"><a href=https://github.com/20100215/DataCamp_Projects">DataCamp Projects</td>
+    <td class="tg-c3ow">Collection of Data Analytics, Machine Learning, Statistical Analysis, and Deep Learning projects in DataCamp.</td>
+    <td class="tg-c3ow">Python, Pandas, Matplotlib, SQL, Keras, SciPy</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">29</td>
     <td class="tg-c3ow">June 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/8_Week_SQL_Challenge">8 Week SQL Challenge</a></td>
     <td class="tg-c3ow">Compilation of case study solutions with complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a></td>
