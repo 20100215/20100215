@@ -19,7 +19,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
 - 🌱 I graduated **BS Computer Science** in **University of San Carlos** last June 2024.
 - 👀 I’m interested in **competitive programming**, **playing retro games**, and **teaching**
-- 💞️ I’m currently learning: **Data Science, Natural Language Processing, Project Management**
+- 💞️ I’m currently learning: **Data Engineering (Azure, AWS), Data Analytics (Power BI), Project Management**
 - 📫 How to reach me: **Email (wdayata@gmail.com)**
 
 ### Projects created:
