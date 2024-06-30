@@ -227,7 +227,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">27</td>
     <td class="tg-c3ow">June 2024</td>
-    <td class="tg-c3ow"><a href="https://bit.ly/DEVCONPowerBIWorkshop">Power BI Workshop</td>
+    <td class="tg-c3ow"><a href="https://bit.ly/DEVCONPowerBIWorkshop">Power BI Workshop Series</td>
     <td class="tg-c3ow">Self-made notes used in the Introductory Power BI Workshop series conducted to aspiring data professionals.</td>
     <td class="tg-c3ow">Power BI, DAX</td>
   </tr>
