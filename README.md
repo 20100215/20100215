@@ -17,7 +17,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
 ### About me:
 
-- 🌱 I'm currently studying **BS Computer Science** in **University of San Carlos**.
+- 🌱 I graduated **BS Computer Science** in **University of San Carlos** last June 2024.
 - 👀 I’m interested in **competitive programming**, **playing retro games**, and **teaching**
 - 💞️ I’m currently learning: **Data Science, Natural Language Processing, Project Management**
 - 📫 How to reach me: **Email (wdayata@gmail.com)**
@@ -227,7 +227,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">27</td>
     <td class="tg-c3ow">June 2024</td>
-    <td class="tg-c3ow"><a href="https://bit.ly/DEVCONPowerBIWorkshop">Power BI Workshop Series</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Power_BI_Workshop_Series">Power BI Workshop Series</td>
     <td class="tg-c3ow">Self-made notes used in the Introductory Power BI Workshop series conducted to aspiring data professionals.</td>
     <td class="tg-c3ow">Power BI, DAX</td>
   </tr>
