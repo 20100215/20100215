@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-Passionate programmer, web developer, and data scientist
+Passionate programmer, analytics engineer, and web developer.
 
 My Portfolio - https://20100215.github.io/
 
@@ -240,10 +240,17 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">29</td>
-    <td class="tg-c3ow">June 2024 (Ongoing)</td>
+    <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/8_Week_SQL_Challenge">8 Week SQL Challenge</a></td>
-    <td class="tg-c3ow">Compilation of case study solutions with complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a>)</td>
+    <td class="tg-c3ow">Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a>)</td>
     <td class="tg-c3ow">Python, Pandas, SQLite, Matplotlib</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">30</td>
+    <td class="tg-c3ow">July 2024 (Ongoing)</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/Analyzing_Football_Matches">Analyzing Footall Matches</a></td>
+    <td class="tg-c3ow">Extracting trends and insights from the data of the historical UEFA, FIFA, and Superbowl football championship matches.</td>
+    <td class="tg-c3ow">Power BI, Python, Pandas</td>
   </tr>
 </tbody>
 </table>
@@ -307,5 +314,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h3 align="center">
-Updated June 8, 2024
+Updated July 6, 2024
 </h3>
