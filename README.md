@@ -249,14 +249,14 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
     <td class="tg-c3ow">30</td>
     <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Power_BI_Analytics_Showcase">Power BI Analytics Showcase</a></td>
-    <td class="tg-c3ow">A compilation of interactive dashboard projects developed with Power BI and SQL streamlining the computation, summarizing, and report of key metrics across various dimensions covering the following domains of analytics: Finance, e-commerce, sports, hospitality, and human resources.</td>
+    <td class="tg-c3ow">Compilation of interactive dashboard projects streamlining the computation and report of key metrics covering the following domains of analytics: Finance, e-commerce, sports, hospitality, and human resources.</td>
     <td class="tg-c3ow">Power BI, SQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">31</td>
     <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/PySpark_Data_Management_Showcase">PySpark Data Management Showcase</a></td>
-    <td class="tg-c3ow">A compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection.</td>
+    <td class="tg-c3ow">Compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection.</td>
     <td class="tg-c3ow">PySpark</td>
   </tr>
 </tbody>
