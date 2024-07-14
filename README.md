@@ -128,132 +128,139 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">Nov 2022</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/B_Tree_Implementation">B Tree Implementation</a></td>
+    <td class="tg-c3ow">Discussions, simulations, and codes for the B-Tree properties, operations (insert, search, delete), and applications.</td>
+    <td class="tg-c3ow">C</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14</td>
     <td class="tg-c3ow">Dec 2022</td>
     <td class="tg-c3ow"><a href="https://github.com/OG-Habit/3104-SJF">CPU Scheduling</a></td>
     <td class="tg-c3ow">CPU scheduling simulation and visualization (Lab exercise for Operating Systems course)</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">15</td>
     <td class="tg-c3ow">Dec 2022</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/IAS-Cryptography">Cryptography</a></td>
     <td class="tg-c3ow">Cryptography algorithm simulations for encrypting and decrypting text data (Lab exercises for Information Assurance and Security course)</td>
     <td class="tg-c3ow">C</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">16</td>
     <td class="tg-c3ow">Dec 2022</td>
     <td class="tg-c3ow"><a href="https://github.com/therealmai/sanaol_agency/tree/main">Sanaol Agency</a></td>
     <td class="tg-c3ow">Talent management system with CRUD features for events, talents, news, and services with automated notification and dynamic dashboards</td>
     <td class="tg-c3ow">Vue.JS, Laravel</td>
   </tr>
   <tr>
-    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">17</td>
     <td class="tg-baqh">Dec 2022</td>
     <td class="tg-baqh"><a href="https://github.com/20100215/20100215.github.io">Portfolio Website</a></td>
     <td class="tg-baqh">Personal showcase of resume, achievements, and projects developed</td>
     <td class="tg-baqh">HTML, CSS, Bootstrap 5, JS, AppsScript</td>
   </tr>
   <tr>
-    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">18</td>
     <td class="tg-baqh">Apr 2023</td>
     <td class="tg-baqh"><a href="https://github.com/20100215/Automata-Theory-Coding-Exercises">Automata Theory</a></td>
     <td class="tg-baqh">Compilation of hands on exercises (GUI applications) for finite-state automata applications</td>
     <td class="tg-baqh">C#, Windows Forms .NET</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">19</td>
     <td class="tg-c3ow">Nov 2023</td>
     <td class="tg-c3ow"> <a href="https://github.com/20100215/All-Cell-Classifier">ALL Classifier UI</a></td>
     <td class="tg-c3ow">Using a stacking ensemble of convolutional neural networks to detect cancerous white blood cells resembling Acute Lymphoblastic Leukemia</td>
     <td class="tg-c3ow">Python, Tensorflow, Keras, Tkinter UI</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">19</td>
+    <td class="tg-c3ow">20</td>
     <td class="tg-c3ow">Dec 2023</td>
     <td class="tg-c3ow"> <a href="https://github.com/20100215/Intelligent_Systems">Intelligent Systems</a> </td>
     <td class="tg-c3ow">Compilation of machine learning and deep learning exercises in the Intelligent Systems / AI class</td>
     <td class="tg-c3ow">Python, Scikit-learn, Tensorflow, Keras, PyTorch, pandas</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">20</td>
+    <td class="tg-c3ow">21</td>
     <td class="tg-c3ow">Dec 2023</td>
     <td class="tg-c3ow">Event Registration System</td>
     <td class="tg-c3ow">Event management system web application developed during internship with automated invitation, registration, time logging and attendance tracking</td>
     <td class="tg-c3ow">Next.JS, Next UI, C#, ASP.NET Web API, MSSQL</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">21</td>
+    <td class="tg-c3ow">22</td>
     <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Natural_Language_Processing">Natural Language Processing</a></td>
     <td class="tg-c3ow">Compilation of language preprocessing and machine learning exercises in the Natural Language Processing class</td>
     <td class="tg-c3ow">Python, Scikit-learn, NLTK, SpaCy, gensim, pandas</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">23</td>
     <td class="tg-c3ow">Mar 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/OG-Habit/mat5101">Numerical Analysis</a></td>
     <td class="tg-c3ow">Compilation of problem sets in the Numerical Analysis class</td>
     <td class="tg-c3ow">R</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">23</td>
+    <td class="tg-c3ow">24</td>
     <td class="tg-c3ow">Mar 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/discord-clone">Discord Clone App</a></td>
     <td class="tg-c3ow">A web application replicating the features of Discord - text and voice channels, server moderation and user role management.</td>
     <td class="tg-c3ow">Next.JS, React, Socket.io, Prisma, Tailwind</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">24</td>
+    <td class="tg-c3ow">25</td>
     <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/NLP_Student_Manual_Chatbot">Student Handbook Chatbot</a></td>
     <td class="tg-c3ow">An application integrating a trained question-answer model with RAG that can process factual queries on USC's student handbook.</td>
     <td class="tg-c3ow">Python, LangChain, Streamlit, ChromaDB, Llama 3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">25</td>
+    <td class="tg-c3ow">26</td>
     <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/cubic-splines-calculator">Cubic Splines Calculator</a></td>
     <td class="tg-c3ow">A web application to interpolate from a series of points through cubic spline polynomials.</td>
     <td class="tg-c3ow">Next.JS, R Plumber</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">27</td>
     <td class="tg-c3ow">June 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Data_Express">Data Express</a></td>
     <td class="tg-c3ow">A web-based data analysis and profiling, interactive visual exploration, and statical experimentation/hypothesis testing application with any dataset supported (CSV and Excel).</td>
     <td class="tg-c3ow">Python, Pandas, PyGWalker, SciPy, Streamlit</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">27</td>
+    <td class="tg-c3ow">28</td>
     <td class="tg-c3ow">June 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Power_BI_Workshop_Series">Power BI Workshop Series</td>
     <td class="tg-c3ow">Self-made notes used in the Introductory Power BI Workshop series conducted to aspiring data professionals.</td>
     <td class="tg-c3ow">Power BI, DAX</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">28</td>
+    <td class="tg-c3ow">29</td>
     <td class="tg-c3ow">June 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/DataCamp_Projects">DataCamp Projects</td>
     <td class="tg-c3ow">Collection of Data Analytics, Machine Learning, Statistical Analysis, and Deep Learning projects in DataCamp.</td>
     <td class="tg-c3ow">Python, Pandas, Matplotlib, SQL, Keras, SciPy</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">29</td>
+    <td class="tg-c3ow">30</td>
     <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/8_Week_SQL_Challenge">8 Week SQL Challenge</a></td>
     <td class="tg-c3ow">Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a>)</td>
     <td class="tg-c3ow">Python, Pandas, SQLite, Matplotlib</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">30</td>
+    <td class="tg-c3ow">31</td>
     <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Power_BI_Analytics_Showcase">Power BI Analytics Showcase</a></td>
     <td class="tg-c3ow">Compilation of interactive dashboard projects streamlining the computation and report of key metrics covering the following domains of analytics: Finance, e-commerce, sports, hospitality, and human resources.</td>
     <td class="tg-c3ow">Power BI, SQL</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">31</td>
+    <td class="tg-c3ow">32</td>
     <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/PySpark_Data_Management_Showcase">PySpark Data Management Showcase</a></td>
     <td class="tg-c3ow">Compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection.</td>
@@ -264,6 +271,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 
 ### Technologies:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -272,7 +280,6 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
