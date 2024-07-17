@@ -213,16 +213,16 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   <tr>
     <td class="tg-c3ow">25</td>
     <td class="tg-c3ow">May 2024</td>
-    <td class="tg-c3ow"><a href="https://github.com/20100215/NLP_Student_Manual_Chatbot">Student Handbook Chatbot</a></td>
-    <td class="tg-c3ow">An application integrating a trained question-answer model with RAG that can process factual queries on USC's student handbook.</td>
-    <td class="tg-c3ow">Python, LangChain, Streamlit, ChromaDB, Llama 3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">26</td>
-    <td class="tg-c3ow">May 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/cubic-splines-calculator">Cubic Splines Calculator</a></td>
     <td class="tg-c3ow">A web application to interpolate from a series of points through cubic spline polynomials.</td>
     <td class="tg-c3ow">Next.JS, R Plumber</td>
+  </tr>
+<tr>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow"><a href="https://github.com/20100215/NLP_Student_Manual_Chatbot">Student Handbook Chatbot</a></td>
+    <td class="tg-c3ow">An application integrating a trained question-answer model with RAG that can process factual queries on USC's student handbook.</td>
+    <td class="tg-c3ow">Python, LangChain, Streamlit, ChromaDB, Llama 3</td>
   </tr>
   <tr>
     <td class="tg-c3ow">27</td>
@@ -240,7 +240,7 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">29</td>
-    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow">July 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/DataCamp_Projects">DataCamp Projects</td>
     <td class="tg-c3ow">Collection of Data Analytics, Machine Learning, Statistical Analysis, and Deep Learning projects in DataCamp.</td>
     <td class="tg-c3ow">Python, Pandas, Matplotlib, SQL, Keras, SciPy</td>
