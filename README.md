@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-Passionate programmer, analytics engineer, and web developer.
+Data Engineer | Business Intelligence Analyst | SQL Developer | Programmer
 
 My Portfolio - https://20100215.github.io/
 
