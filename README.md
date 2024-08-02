@@ -22,6 +22,71 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 - 💞️ I’m currently learning: **Data Engineering (Azure, AWS), Data Analytics (Power BI), Project Management**
 - 📫 How to reach me: **Email (wdayata@gmail.com)**
 
+### Certifications:
+<table class="tg" style="undefined;table-layout: fixed; width: 761px">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Certification</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Institution</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Date obtained</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Expires on</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Link</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">Data Engineer</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">August 2024</td>
+    <td class="tg-c3ow">August 2026</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DE0018130723602">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">Data Analyst Associate</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow">June 2026</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DAA0017927529530">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">Fabric Analytics Engineer Associate (DP-600)</td>
+    <td class="tg-c3ow">Microsoft</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow">June 2025</td>
+    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/3BF4F523690D3F7B">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">4</td>
+    <td class="tg-c3ow">Power BI Data Analyst Associate (PL-300)</td>
+    <td class="tg-c3ow">Microsoft</td>
+    <td class="tg-c3ow">July 2024</td>
+    <td class="tg-c3ow">July 2025</td>
+    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/E38C3A6B154AFD09">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">5</td>
+    <td class="tg-c3ow">Passer, Fundamental Information Technology Engineer Examination</td>
+    <td class="tg-c3ow">PhilNITS / ITPEC</td>
+    <td class="tg-c3ow">November 2023</td>
+    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow"><a href="https://20100215.github.io/assets/img/gallery/cert-1.jpg">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">6</td>
+    <td class="tg-c3ow">AI Fundamentals Certificate</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">December 2023</td>
+    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/skill-verification/AIF0011672272778">Link</a></td>
+  </tr>
+ 
+</tbody>
+</table>
+
 ### Projects created:
 
 <table class="tg" style="undefined;table-layout: fixed; width: 761px">
@@ -240,97 +305,32 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
   </tr>
   <tr>
     <td class="tg-c3ow">29</td>
-    <td class="tg-c3ow">July 2024 (Ongoing)</td>
+    <td class="tg-c3ow">July 2024</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/DataCamp_Projects">DataCamp Projects</td>
     <td class="tg-c3ow">Collection of Data Analytics, Machine Learning, Statistical Analysis, and Deep Learning projects in DataCamp.</td>
     <td class="tg-c3ow">Python, Pandas, Matplotlib, SQL, Keras, SciPy</td>
   </tr>
   <tr>
     <td class="tg-c3ow">30</td>
-    <td class="tg-c3ow">July 2024 (Ongoing)</td>
+    <td class="tg-c3ow">August 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/8_Week_SQL_Challenge">8 Week SQL Challenge</a></td>
     <td class="tg-c3ow">Compilation of case study solutions with practical and complex SQL data manipulation and analysis (Source: <a href='https://8weeksqlchallenge.com/'>#8WeekSQLChallenge</a>)</td>
     <td class="tg-c3ow">Python, Pandas, SQLite, Matplotlib</td>
   </tr>
   <tr>
     <td class="tg-c3ow">31</td>
-    <td class="tg-c3ow">July 2024 (Ongoing)</td>
+    <td class="tg-c3ow">August 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/Power_BI_Analytics_Showcase">Power BI Analytics Showcase</a></td>
     <td class="tg-c3ow">Compilation of interactive dashboard projects streamlining the computation and report of key metrics covering the following domains of analytics: Finance, e-commerce, sports, hospitality, and human resources.</td>
     <td class="tg-c3ow">Power BI, SQL</td>
   </tr>
   <tr>
     <td class="tg-c3ow">32</td>
-    <td class="tg-c3ow">July 2024 (Ongoing)</td>
+    <td class="tg-c3ow">August 2024 (Ongoing)</td>
     <td class="tg-c3ow"><a href="https://github.com/20100215/PySpark_Data_Management_Showcase">PySpark Data Management Showcase</a></td>
     <td class="tg-c3ow">Compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection.</td>
     <td class="tg-c3ow">PySpark</td>
   </tr>
-</tbody>
-</table>
-
-### Certifications:
-<table class="tg" style="undefined;table-layout: fixed; width: 761px">
-<thead>
-  <tr>
-    <th class="tg-c3ow"><span style="font-weight:bold">No.</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Certification</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Institution</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Date obtained</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Expires on</span></th>
-    <th class="tg-c3ow"><span style="font-weight:bold">Link</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">Data Engineer</td>
-    <td class="tg-c3ow">DataCamp</td>
-    <td class="tg-c3ow">August 2024</td>
-    <td class="tg-c3ow">August 2026</td>
-    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DE0018130723602">Link</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">Data Analyst Associate</td>
-    <td class="tg-c3ow">DataCamp</td>
-    <td class="tg-c3ow">June 2024</td>
-    <td class="tg-c3ow">June 2026</td>
-    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DAA0017927529530">Link</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">Fabric Analytics Engineer Associate (DP-600)</td>
-    <td class="tg-c3ow">Microsoft</td>
-    <td class="tg-c3ow">June 2024</td>
-    <td class="tg-c3ow">June 2025</td>
-    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/3BF4F523690D3F7B">Link</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">Power BI Data Analyst Associate (PL-300)</td>
-    <td class="tg-c3ow">Microsoft</td>
-    <td class="tg-c3ow">July 2024</td>
-    <td class="tg-c3ow">July 2025</td>
-    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/E38C3A6B154AFD09">Link</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">Passer, Fundamental Information Technology Engineer Examination</td>
-    <td class="tg-c3ow">PhilNITS / ITPEC</td>
-    <td class="tg-c3ow">July 2024</td>
-    <td class="tg-c3ow">July 2025</td>
-    <td class="tg-c3ow"><a href="https://20100215.github.io/assets/img/gallery/cert-1.jpg">Link</a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">AI Fundamentals Certificate</td>
-    <td class="tg-c3ow">DataCamp</td>
-    <td class="tg-c3ow">December 2023</td>
-    <td class="tg-c3ow">-</td>
-    <td class="tg-c3ow"><a href="https://www.datacamp.com/skill-verification/AIF0011672272778">Link</a></td>
-  </tr>
- 
 </tbody>
 </table>
 
