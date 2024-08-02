@@ -269,6 +269,71 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 </tbody>
 </table>
 
+### Certifications:
+<table class="tg" style="undefined;table-layout: fixed; width: 761px">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Certification</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Institution</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Date obtained</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Expires on</span></th>
+    <th class="tg-c3ow"><span style="font-weight:bold">Link</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">1</td>
+    <td class="tg-c3ow">Data Engineer</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">August 2024</td>
+    <td class="tg-c3ow">August 2026</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DE0018130723602">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">2</td>
+    <td class="tg-c3ow">Data Analyst Associate</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow">June 2026</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/certificate/DAA0017927529530">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">3</td>
+    <td class="tg-c3ow">Fabric Analytics Engineer Associate (DP-600)</td>
+    <td class="tg-c3ow">Microsoft</td>
+    <td class="tg-c3ow">June 2024</td>
+    <td class="tg-c3ow">June 2025</td>
+    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/3BF4F523690D3F7B">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">4</td>
+    <td class="tg-c3ow">Power BI Data Analyst Associate (PL-300)</td>
+    <td class="tg-c3ow">Microsoft</td>
+    <td class="tg-c3ow">July 2024</td>
+    <td class="tg-c3ow">July 2025</td>
+    <td class="tg-c3ow"><a href="https://learn.microsoft.com/api/credentials/share/en-us/WayneDayata-7444/E38C3A6B154AFD09">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">5</td>
+    <td class="tg-c3ow">Passer, Fundamental Information Technology Engineer Examination</td>
+    <td class="tg-c3ow">PhilNITS / ITPEC</td>
+    <td class="tg-c3ow">July 2024</td>
+    <td class="tg-c3ow">July 2025</td>
+    <td class="tg-c3ow"><a href="https://20100215.github.io/assets/img/gallery/cert-1.jpg">Link</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">6</td>
+    <td class="tg-c3ow">AI Fundamentals Certificate</td>
+    <td class="tg-c3ow">DataCamp</td>
+    <td class="tg-c3ow">December 2023</td>
+    <td class="tg-c3ow">-</td>
+    <td class="tg-c3ow"><a href="https://www.datacamp.com/skill-verification/AIF0011672272778">Link</a></td>
+  </tr>
+ 
+</tbody>
+</table>
+
 ### Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -278,7 +343,6 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
@@ -290,12 +354,10 @@ My Skills Profile - https://fullscale.rocks/profile/e6f5420708eef
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
